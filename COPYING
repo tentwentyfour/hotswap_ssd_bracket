@@ -1,16 +1,4 @@
-# Hotswap SSD Bracket
-
-This is a simple 2.5" to 3.5" SSD bracket for hotswap server bays. This was inspired and adapted from
-[this Thingiverse project](http://www.thingiverse.com/thing:68429) for the needs of [Tentwentyfour S.à.r.l](https://www.tentwentyfour.lu/)
-
-## Bracket rendering:
-
-<img src="https://raw.githubusercontent.com/sotch/hotswap_ssd_bracket/master/doc/bracket_rendering.png" alt="hotswap_ssd_bracket" title="hotswap_ssd_bracket">
-
-## License:
-
-```
-	Apache v2.0 License
+Apache v2.0 License
 	Copyright 2015 Natalia Sotchilina
 
 	 Licensed under the Apache License, Version 2.0 (the "License");
@@ -24,5 +12,3 @@ This is a simple 2.5" to 3.5" SSD bracket for hotswap server bays. This was insp
 	 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	 See the License for the specific language governing permissions and
 	 limitations under the License.
-
-```
