@@ -1,7 +1,7 @@
 # Hotswap SSD Bracket
 
 This is a simple 2.5" to 3.5" SSD bracket for hotswap server bays. This was inspired and adapted from
-[this Thingiverse project](http://www.thingiverse.com/thing:68429) for the needs of [Tentwentyfour S.à.r.l](https://www.tentwentyfour.lu/).
+[this Thingiverse project](http://www.thingiverse.com/thing:68429) for the needs of [TenTwentyFour S.à.r.l](https://www.tentwentyfour.lu/).
 
 ## Bracket rendering:
 
